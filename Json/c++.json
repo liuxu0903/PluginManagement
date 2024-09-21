@@ -1,0 +1,118 @@
+{
+    "List": [
+        {
+            "Name": "python文件1",
+            "Path": "F:/QT/Debug/SmartSoloDeviceManager.exe",
+            "Type": "111"
+        },
+        {
+            "Config": "",
+            "Name": "name",
+            "Path": "path",
+            "Type": ".exe"
+        },
+        {
+            "Name": "name",
+            "Path": "path",
+            "Type": "type"
+        },
+        {
+            "Name": "name",
+            "Path": "path",
+            "Type": "type"
+        },
+        {
+            "Name": "name",
+            "Path": "path",
+            "Type": "type"
+        },
+        {
+            "Name": "name",
+            "Path": "path",
+            "Type": "type"
+        },
+        {
+            "Name": "name",
+            "Path": "path",
+            "Type": "type"
+        },
+        {
+            "Name": "name",
+            "Path": "path",
+            "Type": "type"
+        },
+        {
+            "Name": "name",
+            "Path": "path",
+            "Type": "type"
+        },
+        {
+            "Name": "name",
+            "Path": "path",
+            "Type": "type"
+        },
+        {
+            "Name": "name",
+            "Path": "path",
+            "Type": "type"
+        },
+        {
+            "Name": "name",
+            "Path": "path",
+            "Type": "type"
+        },
+        {
+            "Name": "name",
+            "Path": "path",
+            "Type": "type"
+        },
+        {
+            "Name": "name",
+            "Path": "path",
+            "Type": "type"
+        },
+        {
+            "Name": "name",
+            "Path": "path",
+            "Type": "type"
+        },
+        {
+            "Name": "name",
+            "Path": "path",
+            "Type": "type"
+        },
+        {
+            "Name": "name",
+            "Path": "path",
+            "Type": "type"
+        },
+        {
+            "Name": "name",
+            "Path": "path",
+            "Type": "type"
+        },
+        {
+            "Name": "name",
+            "Path": "path",
+            "Type": "type"
+        },
+        {
+            "Name": "111",
+            "Path": "···",
+            "Type": ".py",
+            "config": ""
+        },
+        {
+            "Config": "111",
+            "Name": "11111",
+            "Path": "E:/Program Files/neatdm1.4.10.exe",
+            "Type": ".exe"
+        },
+        {
+            "Config": "2222",
+            "Name": "22222",
+            "Path": "2222",
+            "Type": ".py"
+        }
+    ]
+}

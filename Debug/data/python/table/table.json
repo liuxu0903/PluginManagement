@@ -1,0 +1,34 @@
+{
+   "userList" : [
+      {
+         "address" : "D:/Users/Liuxu/Documents/Debug/SmartSoloDeviceManager.exe",
+         "name" : "python\u6587\u4ef6",
+         "type" : ".py"
+      },
+      {
+         "address" : "D:/Users/Liuxu/Documents/Debug/SmartSoloDeviceManager.exe",
+         "name" : "C++\u6587\u4ef6",
+         "type" : "c"
+      },
+      {
+         "address" : "D:/Users/Liuxu/Documents/Debug/SmartSoloDeviceManager.exe",
+         "name" : "MatLab\u6587\u4ef6",
+         "type" : ".m"
+      },
+      {
+         "address" : "D:/Users/Liuxu/Documents/Debug/SmartSoloDeviceManager.exe",
+         "name" : "\u5fae\u4fe1\u6587\u4ef6",
+         "type" : ".exe"
+      },
+      {
+         "address" : "D:/Users/Liuxu/Documents/Debug/SmartSoloDeviceManager.exe",
+         "name" : "QQ\u6587\u4ef6",
+         "type" : ".exe"
+      },
+      {
+         "address" : "D:/Users/Liuxu/Documents/Debug/SmartSoloDeviceManager.exe",
+         "name" : "\u817e\u8baf\u4f1a\u8bae\u6587\u4ef6",
+         "type" : ".exe"
+      }
+   ]
+}

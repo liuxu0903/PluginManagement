@@ -1,0 +1,22 @@
+{
+    "List": [
+        {
+            "Config": "111",
+            "Name": "1111",
+            "Path": "C:/Users/AI/Desktop/PDF处理工具.exe",
+            "Type": ".py"
+        },
+        {
+            "Config": "",
+            "Name": "小程序",
+            "Path": "C:/Users/AI/Desktop/PDF处理工具.exe",
+            "Type": ".exe"
+        },
+        {
+            "Config": "D:/Users/Liuxu/Documents/QT_Files/ToHD/时间转换/TimeChange.exe",
+            "Name": "时间转换",
+            "Path": "D:/Users/Liuxu/Documents/QT_Files/ToHD/时间转换/TimeChange.exe",
+            "Type": ".py"
+        }
+    ]
+}

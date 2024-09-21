@@ -1,0 +1,13 @@
+{	"Address":{
+		"city":"666",
+		"country":"666",
+		"street":"666"
+	},
+	"Age":666,
+	"FirstName":"666",
+	"LastName":"666",
+	"phone numbers":[
+			"+66 66666",
+			"+66 666666"
+	]
+}

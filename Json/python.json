@@ -1,0 +1,40 @@
+{
+    "List": [
+        {
+            "Config": "区韦尔",
+            "Name": "222",
+            "Path": "222",
+            "Type": ".py"
+        },
+        {
+            "Config": "",
+            "Name": "小程序",
+            "Path": "C:/Users/AI/Desktop/PDF处理工具.exe",
+            "Type": ".exe"
+        },
+        {
+            "Config": "111111",
+            "Name": "11111111",
+            "Path": "11111",
+            "Type": ".exe"
+        },
+        {
+            "Config": "12324545gsgjklsdlkjgf",
+            "Name": "12345",
+            "Path": "",
+            "Type": ".m"
+        },
+        {
+            "Config": "1234额4",
+            "Name": "1213234",
+            "Path": "",
+            "Type": ".py"
+        },
+        {
+            "Config": "1234245",
+            "Name": "12324",
+            "Path": "",
+            "Type": ".py"
+        }
+    ]
+}
